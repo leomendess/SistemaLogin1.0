@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\bin\Debug\ProjetoTelaDeLogin.exe.config
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\bin\Debug\ProjetoTelaDeLogin.exe
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\bin\Debug\ProjetoTelaDeLogin.pdb
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.Apresentação.Bem_Vindo.resources
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.Form1.resources
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.exe
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.pdb
+C:\Users\Leonardo\Desktop\C#\ProjetoTelaDeLogin\obj\Debug\ProjetoTelaDeLogin.Apresentação.Form1.resources
